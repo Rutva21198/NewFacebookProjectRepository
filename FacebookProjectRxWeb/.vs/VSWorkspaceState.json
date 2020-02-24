@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FacebookProjectRxWeb.Api",
+    "\\FacebookProjectRxWeb.Api\\Controllers",
+    "\\FacebookProjectRxWeb.Api\\Controllers\\Api",
+    "\\FacebookProjectRxWeb.Api\\Controllers\\Api\\Core",
+    "\\FacebookProjectRxWeb.Api\\Controllers\\Api\\MasterModule",
+    "\\FacebookProjectRxWeb.BoundedContext"
+  ],
+  "SelectedNode": "\\FacebookProjectRxWeb.sln",
+  "PreviewInSolutionExplorer": false
+}
